@@ -16,7 +16,7 @@ This is a responsive and modern personal portfolio website created using **HTML*
 - JSON (for skills data)
 
 ## 🔗 Live Site
-[Visit My Portfolio](https://your-site-name.netlify.app)
+[Visit My Portfolio](https://satyamportfoliioo.netlify.app/)
 
 ## 📬 Contact
 You can reach me through the contact form or social media links available on the website.
