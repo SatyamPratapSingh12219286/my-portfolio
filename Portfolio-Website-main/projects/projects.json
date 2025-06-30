@@ -1,0 +1,31 @@
+[
+  {
+    "name": "MyStore",
+    "desc": "An e-commerce SPA built using React and Redux with product listings, cart management, and responsive UI.",
+    "image": "mystore",
+    "category": "react",
+    "links": {
+      "view": "https://mystore777.netlify.app/",
+      "code": "https://github.com/SatyamPratapSingh12219286/mystore"
+    }
+  },
+  {
+    "name": "ForkifyApp",
+    "desc": "A JavaScript recipe search app using the Forkify API. Features real-time search, ingredients, and instructions.",
+    "image": "forkify",
+    "category": "javascript",
+    "links": {
+      "view": "https://forkify77.netlify.app/",
+      "code": "https://github.com/SatyamPratapSingh12219286/forkify_app"
+    }
+  },
+  {
+    "name": "Credit Risk Management",
+    "desc": "A dashboard for credit risk scoring built with React, TypeScript, and Node. Features filters, dark mode, and analytics.",
+    "image": "creditrisk",
+    "category": "react",
+    "links": {
+      "code": "https://github.com/SatyamPratapSingh12219286/Credit-Risk-Management"
+    }
+  }
+]
